@@ -1,1 +1,1 @@
-# Booking Application Using GOLANG
+# Booking Application Using GO
